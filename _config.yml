@@ -1,0 +1,14 @@
+layout_spectrum: 0.10830087680369616
+typography_spectrum: 0.52833681111224
+color:
+  brandStrength: 0.9201383371837437
+  lightness: 0.18838055012747645
+  saturation: 0.5597578724846244
+  rhythmicContrast: 0.40595706179738045
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: High Intensity
